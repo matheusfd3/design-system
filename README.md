@@ -20,4 +20,4 @@
 
   ## Imagens
   ![App Screenshot](https://github.com/matheusfd3/design-system/blob/main/.github/image1.png)
-  ![App Screenshot](https://github.com/matheusfd3/shorts-summary/blob/main/.github/image2.png)
+  ![App Screenshot](https://github.com/matheusfd3/design-system/blob/main/.github/image2.png)
