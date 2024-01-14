@@ -1,5 +1,5 @@
 <h1 align="center">
-  Design System para o projeto <a target="_blank" href="https://github.com/matheusfd3/call">Call/a>.
+  Design System para o projeto <a target="_blank" href="https://github.com/matheusfd3/call">Call</a>.
 </h1>
 
 <h2 align="center">
